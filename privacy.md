@@ -1,0 +1,53 @@
+# Privacy Policy – LifeBits
+
+**Effective date:** November 24, 2026
+
+## 1. Introduction
+
+LifeBits is a personal productivity application designed to help users organize tasks, rewards, and personal activities.
+
+Your privacy is important. LifeBits is designed to operate locally on your device and does not collect, transmit, or share your personal information.
+
+## 2. Information Collection and Storage
+
+LifeBits does not collect, transmit, or store personal information on external servers.
+
+Information created within the application, such as tasks, cards, tags, and rewards, is stored locally on your device.
+
+This information is not accessible to the developer.
+
+## 3. Data Sharing
+
+LifeBits does not sell, share, or disclose user information to third parties.
+
+The application does not use advertising, analytics, or tracking services.
+
+## 4. Data Retention and Deletion
+
+All application data remains stored locally on your device until you delete it.
+
+You can remove your locally stored data by clearing the application's storage or uninstalling the application.
+
+Please note that uninstalling the application may permanently delete locally stored information. The developer cannot recover data that has been deleted from your device.
+
+## 5. Children's Privacy
+
+LifeBits does not knowingly collect personal information from children or any other users.
+
+Since the application does not collect or transmit personal information, it does not maintain personal information about its users.
+
+## 6. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time to reflect changes in the application or applicable requirements.
+
+Any updates will be published on the page where this Privacy Policy is hosted. The effective date will be updated accordingly.
+
+## 7. Contact
+
+If you have any questions or concerns regarding this Privacy Policy, you can contact the developer at:
+
+**Email:** [YOUR SUPPORT EMAIL]
+
+---
+
+This Privacy Policy applies to the LifeBits Android application.
